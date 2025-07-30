@@ -101,9 +101,7 @@ This project is licensed under the MIT License — you're free to use, modify, a
 ---
 
 ## 👨‍💻 Author
-
 **Kumar Prakhar**
+
 Feel free to fork and improve. Suggestions are welcome!
 Connect with me on [LinkedIn](www.linkedin.com/in/kumar-prakhar14) or GitHub.
-
----
